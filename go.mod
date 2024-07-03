@@ -1,3 +1,5 @@
 module xiejunhua/learn-go
 
-go 1.17
+go 1.22
+
+require golang.org/x/tour v0.1.0 // indirect
